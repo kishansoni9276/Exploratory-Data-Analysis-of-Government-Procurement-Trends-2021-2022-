@@ -1,4 +1,4 @@
-#Exploratory Data Analysis of Government Procurement Trends (2021–2022)
+Exploratory Data Analysis of Government Procurement Trends (2021–2022)
 
 📋 Project Overview
 This project dives into government procurement data from 2021–2022, aiming to uncover public spending trends through exploratory data analysis (EDA). We used Python, Pandas, Matplotlib, Seaborn, and statistical techniques to gain insights into procurement categories, departments, tender methods, value distributions, and seasonal activity.
